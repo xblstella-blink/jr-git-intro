@@ -1,1 +1,1 @@
-this is the second.md for jr-git intro
+An "article" can refer to a short piece of writing (like in a newspaper), a single item or object (an "article of clothing"), or a grammatical word (like "a," "an," "the") that modifies a noun, indicating specificity
