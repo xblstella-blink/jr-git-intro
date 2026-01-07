@@ -1,1 +1,1 @@
-this is the second.md for jr-git intro
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae lacus eu velit sagittis tempus. Integer cursus, urna non convallis euismod, odio velit pharetra arcu, a facilisis magna ipsum eget arcu.
