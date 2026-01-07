@@ -1,1 +1,1 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae lacus eu velit sagittis tempus. Integer cursus, urna non convallis euismod, odio velit pharetra arcu, a facilisis magna ipsum eget arcu.
+An "article" can refer to a short piece of writing (like in a newspaper), a single item or object (an "article of clothing"), or a grammatical word (like "a," "an," "the") that modifies a noun, indicating specificity
